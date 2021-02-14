@@ -1,0 +1,43 @@
+#status {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+#status-container {
+  height: 100%;
+  width: 100%;
+  padding: 70px;
+  margin-top: 550px;
+  
+}
+
+#status-container-head{
+  margin-top: -50px;  
+  margin-left: -650px;
+}
+
+#status-container-top {
+  height: 50px;
+  width: 100px;
+  margin-left: -750px;
+
+}
+
+#status-container-bottom {
+  height: 50px;
+  width: 100px;
+  margin-top: -50px;  
+  margin-left: -350px;
+
+}
+
+.status-icon {
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
+
+.status-amount {
+  font-size: 16px;
+}
